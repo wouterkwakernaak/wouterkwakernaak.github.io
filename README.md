@@ -1,4 +1,3 @@
-wouterkwakernaak.github.io
-==========================
+# Website
 
-This repo contains my personal website: www.wouterkwakernaak.nl
+This repository contains my website. See https://www.wouterkwakernaak.nl
